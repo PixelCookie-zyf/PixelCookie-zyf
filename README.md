@@ -19,7 +19,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-🛠 常用的工具:
+🛠 Tools:
 
 &emsp;&emsp; 
 ![Apple](https://img.shields.io/badge/Apple-000000?style=style=flat-square&logo=apple&logoColor=white)
